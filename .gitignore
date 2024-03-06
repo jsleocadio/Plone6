@@ -1,3 +1,4 @@
 teste.py
 __pycache__
 /volumes
+*.json
